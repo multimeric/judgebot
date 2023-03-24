@@ -15,11 +15,11 @@
   "compileOnSave": false,
   "exclude": [
     "__modules",
-    "test"
+    // "test"
   ],
     "ts-node": {
     "compilerOptions": {
-      "module": "CommonJS"
+      "module": "ES2022"
     }
   }
 }
